@@ -1,0 +1,14 @@
+{
+  "todos": [
+    {
+      "id": "deffd70f-839f-45fd-a72e-c596d20f0ada",
+      "task": "Buy Eggs 2",
+      "status": true
+    },
+    {
+      "id": "9e24508c-a6bd-468d-a223-9dfbffa4c220",
+      "task": "byee1",
+      "status": false
+    }
+  ]
+}
